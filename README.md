@@ -1,2 +1,0 @@
-# curriculum
-Mi curriculum vitae
